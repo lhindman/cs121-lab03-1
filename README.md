@@ -31,7 +31,7 @@ Username: lhindm83
 
 
 
-## Lab Activity 1 - SphereCalculator
+## Lab Activity 1 - SphereCalculator (Required)
 ### Problem Description
 Write an application that reads the radius of a sphere from the user using a Scanner and prints its volume and surface area.  Use the following formulas, in which r represents the sphere's radius.  Print the output to four decimal places using the %f format specifier with the printf() method presented in the reading.  Your program should match the expected output below.
 
