@@ -1,4 +1,4 @@
-Module 3 Lab Guide (part 1)
+# Module 3 Lab Guide (part 1)
 ## Getting Started
 [Lab Introduction Video](https://youtu.be/ia9fwrAmMHs)  
 [Code Style and Code Quality Requirements Video](https://youtu.be/LgCIyZesyig) 
