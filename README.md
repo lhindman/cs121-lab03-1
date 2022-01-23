@@ -1,6 +1,6 @@
 # Module 3 Lab Guide (part 1)
 ## Getting Started
-[Lab Introduction Video](https://youtu.be/ia9fwrAmMHs)  
+[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb37a585-2543-437d-a818-ae24017afdb0)  
 [Code Style and Code Quality Requirements Video](https://youtu.be/LgCIyZesyig) 
 
 ### Code Style Requirements
@@ -11,7 +11,7 @@ Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQB
 - Code must run without errors or warnings on safe-path and edge test cases
 - More to come as we learn about input validation and exception handling
 ## Lab Warmup - AccountGenerator
-[Walkthrough Video](https://youtu.be/KjMb8Qth3dM)
+[Walkthrough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93186327-17eb-485d-8581-ae24017afdb1)
 ### Problem Description
 Write an application that prompts for and reads the user's first name and last name (separately) using a Scanner. Then print a string composed of the first letterof the user's first name, followed by the first five characters of the user's last name, followed by a random number in the range of 10 to 99. All letters should be converted to lowercase before being displayed. Assume that the lastname is at least five letters long.  Similar algorithms are sometimes used to generate usernames for new computer accounts.  Your program should match the expected output below, except with a different randomly generated number. 
 
