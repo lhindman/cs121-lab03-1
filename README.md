@@ -1,6 +1,9 @@
 ![CS121 Banner](images/CS121-BANNER.svg)
 # Module 3 Lab Guide (part 1)
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb37a585-2543-437d-a818-ae24017afdb0&start=0)  
+
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
 [Code Style and Code Quality Requirements Video](https://youtu.be/LgCIyZesyig) 
 
 ### Code Style Requirements
